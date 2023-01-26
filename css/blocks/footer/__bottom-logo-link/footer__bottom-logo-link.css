@@ -1,0 +1,6 @@
+@media (max-width: 480px) {
+  .footer__bottom-logo-link {
+    display: block;
+    padding: 20px 0;
+  }
+}

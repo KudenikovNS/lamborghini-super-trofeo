@@ -1,0 +1,7 @@
+@media (max-width: 840px) {
+  .header__nav-menu-btn_span {
+    height: 3px;
+    width: 100%;
+    background-color: #fff;
+  }
+}

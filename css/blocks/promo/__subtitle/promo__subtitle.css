@@ -1,0 +1,26 @@
+.promo__subtitle {
+  font-family: "Impact", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  border-bottom: 1px solid #040404;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+@media (max-width: 1100px) {
+  .promo__subtitle {
+    font-size: 42px;
+  }
+}
+
+@media (max-width: 560px) {
+  .promo__subtitle {
+    font-size: 34px;
+  }
+}
+
+@media (max-width: 340px) {
+  .promo__subtitle {
+    font-size: 30px;
+  }
+}

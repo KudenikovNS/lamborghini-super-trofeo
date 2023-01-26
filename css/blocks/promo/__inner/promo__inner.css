@@ -1,0 +1,7 @@
+.promo__inner {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+  padding-top: 100px;
+}

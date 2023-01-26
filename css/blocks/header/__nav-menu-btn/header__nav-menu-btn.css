@@ -1,0 +1,17 @@
+.header__nav-menu-btn {
+  display: none;
+}
+
+@media (max-width: 840px) {
+  .header__nav-menu-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 45px;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    z-index: 10;
+  }
+}

@@ -1,0 +1,18 @@
+.evo__block-white-video {
+  margin-top: 100px;
+  background-image: url(../../../../images/evo-video.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 264px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .evo__block-white-video {
+    margin-top: 50px;
+  }
+}

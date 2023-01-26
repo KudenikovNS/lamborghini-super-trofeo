@@ -1,0 +1,19 @@
+.header__nav-menu-link {
+  color: #363636;
+  font-size: 16px;
+}
+
+@media (max-width: 840px) {
+  .header__nav-menu-link {
+    color: #fff;
+    font-size: 3vh;
+    display: block;
+    padding: 20px 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .header__nav-menu-link {
+    padding: 15px 0;
+  }
+}

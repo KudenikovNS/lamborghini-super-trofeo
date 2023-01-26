@@ -1,0 +1,18 @@
+.promo__subtitle_span {
+  display: block;
+  color: #9f6b08;
+  font-size: 34px;
+  padding: 10px 0;
+}
+
+@media (max-width: 1100px) {
+  .promo__subtitle_span {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 560px) {
+  .promo__subtitle_span {
+    font-size: 26px;
+  }
+}

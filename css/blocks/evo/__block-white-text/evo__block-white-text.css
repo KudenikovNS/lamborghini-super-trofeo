@@ -1,0 +1,15 @@
+.evo__block-white-text {
+  margin-bottom: 30px;
+}
+
+.evo__block-white-text:first-child {
+  max-width: 285px;
+}
+
+.evo__block-white-text:nth-child(2) {
+  max-width: 437px;
+}
+
+.evo__block-white-text:nth-child(3) {
+  max-width: 590px;
+}

@@ -1,0 +1,9 @@
+.info__part-img {
+  object-fit: cover;
+}
+
+@media (max-width: 840px) {
+  .info__part-img {
+    width: 100%;
+  }
+}

@@ -1,0 +1,12 @@
+.info__part-textbox {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 20px;
+}
+
+@media (max-width: 840px) {
+  .info__part-textbox {
+    display: block;
+    padding-bottom: 15px;
+  }
+}

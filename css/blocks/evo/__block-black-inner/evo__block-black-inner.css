@@ -1,0 +1,29 @@
+.evo__block-black-inner {
+  position: relative;
+}
+
+.evo__block-black-inner::before {
+  content: "";
+  background-image: url(../../../../images/dec-1.svg);
+  width: 185px;
+  height: 213px;
+  top: 210px;
+  left: -130px;
+  position: absolute;
+}
+
+.evo__block-black-inner::after {
+  content: "";
+  background-image: url(../../../../images/dec-2.svg);
+  width: 498px;
+  height: 572px;
+  top: 290px;
+  left: -40px;
+  position: absolute;
+}
+
+@media (max-width: 560px) {
+  .evo__bloсk-black-inner::after {
+    display: none;
+  }
+}

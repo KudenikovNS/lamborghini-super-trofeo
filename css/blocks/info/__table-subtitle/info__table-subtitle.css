@@ -1,0 +1,9 @@
+.info__table-subtitle {
+  padding-bottom: 20px;
+}
+
+@media (max-width: 560px) {
+  .info__table-subtitle {
+    padding: 0 5px;
+  }
+}

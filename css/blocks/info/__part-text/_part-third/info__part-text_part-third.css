@@ -1,0 +1,8 @@
+.info__part-text_part-third {
+  max-width: 377px;
+}
+@media (max-width: 840px) {
+  .info__part-text_part-third {
+    max-width: 100%;
+  }
+}

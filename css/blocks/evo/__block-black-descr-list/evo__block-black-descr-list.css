@@ -1,0 +1,12 @@
+.evo__block-black-descr-list {
+  display: flex;
+  justify-content: center;
+  gap: 65px;
+}
+
+@media (max-width: 669px) {
+  .evo__block-black-descr-list {
+    display: block;
+    text-align: center;
+  }
+}

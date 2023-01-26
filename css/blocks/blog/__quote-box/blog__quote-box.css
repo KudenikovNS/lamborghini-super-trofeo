@@ -1,0 +1,9 @@
+.blog__quote-box {
+  flex-basis: 434px;
+}
+
+@media (max-width: 768px) {
+  .blog__quote-box {
+    flex-basis: auto;
+  }
+}
